@@ -1,7 +1,9 @@
 adb
 
-使用genymotion安装一个应用
-查看应用的package name
+1.使用genymotion安装一个应用
+
+2. 查看应用的package name
+  
 使用pull和push命令
 查看本地的共享文件或者db
 ddms
